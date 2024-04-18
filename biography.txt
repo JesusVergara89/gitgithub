@@ -1,6 +1,6 @@
 Hola soy jesus vergara
 En este archivo estoy practicando git
-Hahahaha
+
 Tengo 33 años y soy ingeniero mecatronico
 
 Ahora voy agregar estas lineas para ver los cambios
