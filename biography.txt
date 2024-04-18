@@ -3,4 +3,8 @@ En este archivo estoy practicando git
 
 Tengo 33 años y soy ingeniero mecatronico
 
-Ahora voy agregar estas lineas para ver los cambios
+Ahora voy agregar estas lineas para ver los cambios.
+
+
+Freddy quiere que escriba que soy alto pero no, soy estatura promeroio. 
+
